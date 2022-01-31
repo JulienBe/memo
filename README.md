@@ -1,3 +1,7 @@
+# Entertainement
+
+- [The Art of Code](https://www.youtube.com/watch?v=8dCD-WfW6Do)
+
 # Aeron
 
 - [Aeron, NAT, and a simple bi-directionnal communication](https://github.com/real-logic/aeron/issues/459)
