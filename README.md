@@ -9,6 +9,7 @@
 # Other ?
 
 - [Gameboy VM](https://gbstudiocentral.com/tips/understanding-gbvm/)
+- [A Crash Course in Modern Hardware by Cliff Click](https://www.youtube.com/watch?v=OFgxAFdxYAQ)
 
 # Tools
 
