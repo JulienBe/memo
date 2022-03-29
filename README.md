@@ -10,6 +10,7 @@
 
 - [Gameboy VM](https://gbstudiocentral.com/tips/understanding-gbvm/)
 - [A Crash Course in Modern Hardware by Cliff Click](https://www.youtube.com/watch?v=OFgxAFdxYAQ)
+- [Elliptic Curve Backdoor](https://www.youtube.com/watch?v=nybVFJVXbww)
 
 # Tools
 
