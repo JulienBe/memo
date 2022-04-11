@@ -5,6 +5,7 @@
 # Aeron
 
 - [Aeron, NAT, and a simple bi-directionnal communication](https://github.com/real-logic/aeron/issues/459)
+- [Beyond POSIX - Adventures in Alternative Networking APIs](https://www.infoq.com/presentations/posix-networking-api/#downloadPdf/)
 
 # Other ?
 
