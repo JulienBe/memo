@@ -15,6 +15,11 @@
 - [Incremental On-line Learning: A Review and Comparison of State of the Art Algorithms](https://www.researchgate.net/publication/320102864_Incremental_On-line_Learning_A_Review_and_Comparison_of_State_of_the_Art_Algorithms)
 - [Quarkus perf](https://cfp.devoxx.fr/2022/talk/ZYX-6223/Traiter_1_million_de_messages_par_CPU_par_Go_de_memoire_avec_Quarkus_et_Microprofile_reactive_messaging_kafka_a_Decathlon)
 
+# [FR] pour le guide de l'arrivant
+
+- [REST next level : Ecrire des APIs web orientées métier](https://www.youtube.com/watch?v=7qqzqse1hgc)
+- [Profiling et monitoring avec le JDK (Jean-Michel Doudoux on t'aime)](https://www.youtube.com/watch?v=m9lzneJaHYI]) 
+
 # Tools
 
 - [VSCode AI autocomplete](https://www.tabnine.com/)
