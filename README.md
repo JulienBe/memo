@@ -23,4 +23,5 @@
 
 # Tools
 
-- [VSCode AI autocomplete](https://www.tabnine.com/)
+- [If no copilot](https://www.tabnine.com/)
+- [XFCE move monitor](https://github.com/AlexisBRENON/ewmh_m2m)
