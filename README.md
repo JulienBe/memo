@@ -15,6 +15,7 @@
 - [Incremental On-line Learning: A Review and Comparison of State of the Art Algorithms](https://www.researchgate.net/publication/320102864_Incremental_On-line_Learning_A_Review_and_Comparison_of_State_of_the_Art_Algorithms)
 - [Quarkus perf](https://cfp.devoxx.fr/2022/talk/ZYX-6223/Traiter_1_million_de_messages_par_CPU_par_Go_de_memoire_avec_Quarkus_et_Microprofile_reactive_messaging_kafka_a_Decathlon)
 - [Perf in general](https://speice.io/2019/07/high-performance-systems.html)
+- [Rust on a C64](https://www.reddit.com/r/rust/comments/uvshco/can_you_write_for_the_commodore_64_in_rust_why/)
 
 # [FR] pour le guide de l'arrivant
 
