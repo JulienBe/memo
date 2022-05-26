@@ -26,3 +26,7 @@
 
 - [If no copilot](https://www.tabnine.com/)
 - [XFCE move monitor](https://github.com/AlexisBRENON/ewmh_m2m)
+- [bat](https://github.com/sharkdp/bat)
+- [fish](https://github.com/fish-shell/fish-shell)
+- [oh my fish](https://github.com/oh-my-fish/oh-my-fish)
+- [fish !!](https://github.com/oh-my-fish/plugin-bang-bang)
