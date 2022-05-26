@@ -16,6 +16,7 @@
 - [Quarkus perf](https://cfp.devoxx.fr/2022/talk/ZYX-6223/Traiter_1_million_de_messages_par_CPU_par_Go_de_memoire_avec_Quarkus_et_Microprofile_reactive_messaging_kafka_a_Decathlon)
 - [Perf in general](https://speice.io/2019/07/high-performance-systems.html)
 - [Rust on a C64](https://www.reddit.com/r/rust/comments/uvshco/can_you_write_for_the_commodore_64_in_rust_why/)
+- [Almost no one got JWT tokens and webhooks right on the first try.](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
 
 # [FR] pour le guide de l'arrivant
 
