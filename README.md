@@ -17,6 +17,7 @@
 - [Perf in general](https://speice.io/2019/07/high-performance-systems.html)
 - [Rust on a C64](https://www.reddit.com/r/rust/comments/uvshco/can_you_write_for_the_commodore_64_in_rust_why/)
 - [Almost no one got JWT tokens and webhooks right on the first try.](https://kenkantzer.com/learnings-from-5-years-of-tech-startup-code-audits/)
+- [Memory barriers](https://www.liblfds.org/mediawiki/index.php/Article:Memory_Barriers_(part_1))
 
 # [FR] pour le guide de l'arrivant
 
